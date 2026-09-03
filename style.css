@@ -59,7 +59,7 @@ p{
 }
 
 .song1 {
-    width: 600px;
+    width: 100%;
     margin: auto; /* по центру по горизонтали */
     display: flex;
     flex-direction: column;
