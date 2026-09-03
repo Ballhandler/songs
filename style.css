@@ -32,10 +32,21 @@ body{
 h1{
     font-family: "MyCustomFont2", "Arial", sans-serif; 
     font-weight: 100;
-    color: #00a2ffe0;
+    color: #68dbca;
     text-align: center;
     font-size: 40px;
     padding-bottom: 30px;
+    padding-top: 50px;
+}
+
+h2{
+    font-family: "MyCustomFont2", "Arial", sans-serif; 
+    font-weight: 100;
+    color: #d961ad;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 30px;
+    padding-top: 50px;
 }
 
 p{
@@ -48,10 +59,11 @@ p{
 }
 
 .song1 {
-    width: 500px;
-    margin: 60px auto 0; /* по центру по горизонтали */
+    width: 600px;
+    margin: auto; /* по центру по горизонтали */
     display: flex;
     flex-direction: column;
     align-items: center; /* содержимое по центру */
     text-align: center;
+    padding-bottom: 200px;
 }
